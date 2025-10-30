@@ -19,7 +19,7 @@ Analizar el rendimiento de ventas, productos y clientes para obtener insights so
 
 ## Estructura
 
-- ´analisis_ventas.sql´: contiene el código SQL con la creación y análisis de datos.
+- ´analisis_ventas_portfolio´: contiene el proyecto SQL con la creación y análisis de datos.
 - ´capturas/´: imágenes de las consultas y resultados.
 
 ## Herramientas
