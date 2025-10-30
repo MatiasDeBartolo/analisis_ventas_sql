@@ -1,7 +1,3 @@
-# Autor
-** Matias De Bartolo **
-[Mi LinkedIn](https://www.linkedin.com/in/matias-de-bartolo/)
-
 # analisis_ventas_sql
 Proyecto de analisis de ventas con SQL Server para mi portfolio de analista de datos.
 
@@ -30,3 +26,8 @@ Analizar el rendimiento de ventas, productos y clientes para obtener insights so
 
 - Microsoft SQL Server Express 2022
 - SQL Server Management Studio (SSMS 20)
+
+## Autor
+**Matias De Bartolo**
+
+*[Mi LinkedIn](https://www.linkedin.com/in/matias-de-bartolo/)
