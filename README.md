@@ -1,3 +1,7 @@
+# Autor
+** Matias De Bartolo **
+[Mi LinkedIn](https://www.linkedin.com/in/matias-de-bartolo/)
+
 # analisis_ventas_sql
 Proyecto de analisis de ventas con SQL Server para mi portfolio de analista de datos.
 
